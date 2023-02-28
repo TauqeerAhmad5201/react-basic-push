@@ -9,8 +9,10 @@ export default function Navbar() {
           href="https://www.google.com/"
           className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
+          
+          <img src="./community_logo.jpg" alt="GDSC_logo" id="GDSCLogo"/>
+                   {/* <svg
+            xmlns="./public/GDSC_logo.ico"
             fill="none"
             stroke="currentColor"
             stroke-linecap="round"
@@ -20,12 +22,12 @@ export default function Navbar() {
             viewBox="0 0 24 24"
           >
             <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-          </svg>
-          <span className="ml-3 text-xl">Tailblocks</span>
+          </svg> */}
+          <span className="ml-3 text-xl">Google Developers</span>
         </a>
         <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
           <a
-            href="https://www.google.com/"
+            href="https://developers.google.com/"
             className="mr-5 hover:text-gray-900"
           >
             First Link
