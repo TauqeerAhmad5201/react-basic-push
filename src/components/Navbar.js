@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Navbar() {
+export default function Navbar(props) {
   return (
     <>
     <header className="text-gray-600 body-font">
@@ -30,25 +30,25 @@ export default function Navbar() {
             href="https://developers.google.com/"
             className="mr-5 hover:text-gray-900"
           >
-            First Link
+            {props.Home}
           </a>
           <a
             href="https://www.google.com/"
             className="mr-5 hover:text-gray-900"
           >
-            Second Link
+            {props.Photos}
           </a>
           <a
             href="https://www.google.com/"
             className="mr-5 hover:text-gray-900"
           >
-            Third Link
+            {props.Vision}
           </a>
           <a
             href="https://www.google.com/"
             className="mr-5 hover:text-gray-900"
           >
-            Fourth Link
+            {props.Values}
           </a>
         </nav>
         <button
