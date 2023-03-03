@@ -7,7 +7,7 @@ import Details from './components/Details';
 function App() {
   return (
     <>
-    <Navbar Home="Home" Photos="Photos" Vision="Vision" Values="Values"></Navbar>
+    <Navbar Home="Home" Photos="Photos" TellUs="Tell us" Values="Values"></Navbar>
     <Event></Event>
     <Details></Details>
     </>
@@ -17,13 +17,13 @@ function App() {
 Navbar.propTypes = {
     Home: PropTypes.string.isRequired, 
     Photos: PropTypes.string.isRequired,
-    Vision: PropTypes.string.isRequired,
-    Values: PropTypes.string.isRequired, 
+    Values: PropTypes.string.isRequired,
+    TellUs: PropTypes.string.isRequired, 
 }
 Navbar.defaultProps = {
   Home : "Link 1",
   Photos : "Link 2", 
-  Vision : "Link 3",
-  Values : "Link 4"
+  Values : "Link 3", 
+  TellUs: "Link 4",
 }
 export default App;
