@@ -9,7 +9,7 @@ export default function Details() {
             <div className="py-8 flex flex-wrap md:flex-nowrap">
               <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
                 <span className="font-semibold title-font text-gray-700">
-                  CATEGORY
+                  Innaugration
                 </span>
                 <span className="mt-1 text-gray-500 text-sm">12 Jun 2019</span>
               </div>
@@ -43,7 +43,7 @@ export default function Details() {
             <div className="py-8 flex flex-wrap md:flex-nowrap">
               <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
                 <span className="font-semibold title-font text-gray-700">
-                  CATEGORY
+                  Android Study Compose Camp
                 </span>
                 <span className="mt-1 text-gray-500 text-sm">12 Jun 2019</span>
               </div>
@@ -77,7 +77,7 @@ export default function Details() {
             <div className="py-8 flex flex-wrap md:flex-nowrap">
               <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
                 <span className="font-semibold title-font text-gray-700">
-                  CATEGORY
+                  Meta Spark AR 
                 </span>
                 <span className="text-sm text-gray-500">12 Jun 2019</span>
               </div>
@@ -111,7 +111,7 @@ export default function Details() {
             <div className="py-8 flex flex-wrap md:flex-nowrap">
               <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
                 <span className="font-semibold title-font text-gray-700">
-                  CATEGORY
+                  DevOps Session
                 </span>
                 <span className="mt-1 text-gray-500 text-sm">12 Jun 2019</span>
               </div>
