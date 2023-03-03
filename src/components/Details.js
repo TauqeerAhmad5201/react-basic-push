@@ -11,7 +11,7 @@ export default function Details() {
                 <span className="font-semibold title-font text-gray-700">
                   Innaugration
                 </span>
-                <span className="mt-1 text-gray-500 text-sm">12 Jun 2019</span>
+                <span className="mt-1 text-gray-500 text-sm">September 2022</span>
               </div>
               <div className="md:flex-grow">
                 <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
@@ -45,7 +45,7 @@ export default function Details() {
                 <span className="font-semibold title-font text-gray-700">
                   Android Study Compose Camp
                 </span>
-                <span className="mt-1 text-gray-500 text-sm">12 Jun 2019</span>
+                <span className="mt-1 text-gray-500 text-sm">October 2022</span>
               </div>
               <div className="md:flex-grow">
                 <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
@@ -79,7 +79,7 @@ export default function Details() {
                 <span className="font-semibold title-font text-gray-700">
                   Meta Spark AR 
                 </span>
-                <span className="text-sm text-gray-500">12 Jun 2019</span>
+                <span className="text-sm text-gray-500">November 2022</span>
               </div>
               <div className="md:flex-grow">
                 <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
@@ -113,7 +113,7 @@ export default function Details() {
                 <span className="font-semibold title-font text-gray-700">
                   DevOps Session
                 </span>
-                <span className="mt-1 text-gray-500 text-sm">12 Jun 2019</span>
+                <span className="mt-1 text-gray-500 text-sm">February 2023</span>
               </div>
               <div className="md:flex-grow">
                 <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
