@@ -42,7 +42,7 @@ export default function Navbar(props) {
             href="https://www.google.com/"
             className="mr-5 hover:text-gray-900"
           >
-            {props.Vision}
+            {props.TellUs}
           </a>
           <a
             href="https://www.google.com/"
