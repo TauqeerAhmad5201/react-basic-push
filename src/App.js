@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Navbar from './components/Navbar'
 import Event from './components/Event'
 import Details from './components/Details';
+import TellUs from './components/TellUs';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
     <Navbar Home="Home" Photos="Photos" TellUs="Tell us" Values="Values"></Navbar>
     <Event></Event>
     <Details></Details>
+    <TellUs></TellUs>
     </>
   );
 }
