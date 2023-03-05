@@ -14,9 +14,6 @@ export default function Details() {
                 <span className="mt-1 text-gray-500 text-sm">September 2022</span>
               </div>
               <div className="md:flex-grow">
-                <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
-                  Bitters hashtag waistcoat fashion axe chia unicorn
-                </h2>
                 <p className="leading-relaxed">
                   Glossier echo park pug, church-key sartorial biodiesel
                   vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf
@@ -48,9 +45,6 @@ export default function Details() {
                 <span className="mt-1 text-gray-500 text-sm">October 2022</span>
               </div>
               <div className="md:flex-grow">
-                <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
-                  Meditation bushwick direct trade taxidermy shaman
-                </h2>
                 <p className="leading-relaxed">
                   Glossier echo park pug, church-key sartorial biodiesel
                   vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf
@@ -82,9 +76,6 @@ export default function Details() {
                 <span className="text-sm text-gray-500">November 2022</span>
               </div>
               <div className="md:flex-grow">
-                <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
-                  Woke master cleanse drinking vinegar salvia
-                </h2>
                 <p className="leading-relaxed">
                   Glossier echo park pug, church-key sartorial biodiesel
                   vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf
@@ -116,9 +107,6 @@ export default function Details() {
                 <span className="mt-1 text-gray-500 text-sm">February 2023</span>
               </div>
               <div className="md:flex-grow">
-                <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
-                  Bitters hashtag waistcoat fashion axe chia unicorn
-                </h2>
                 <p className="leading-relaxed">
                   Glossier echo park pug, church-key sartorial biodiesel
                   vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf
