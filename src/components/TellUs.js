@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 export default function TellUs() {
-  const [Text, setText] = useState("Hello World");
+  const [Text, setText] = useState("Doing great job!!");
 
   function MyText(e) {
     setText(e.target.value);
@@ -28,7 +28,7 @@ export default function TellUs() {
               Feedback
             </h2>
             <p className="leading-relaxed mb-5 text-gray-600">
-              Post-ironic portland shabby chic echo park, banjo fashion axe
+              Let's hear from your end. 
             </p>
             <div className="relative mb-4">
               <label for="email" className="leading-7 text-sm text-gray-600">
